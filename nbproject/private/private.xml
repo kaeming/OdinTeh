@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/client/MapleClient.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/data/input/ByteArrayByteStream.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/MapleCustomEncryption.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/PacketProcessor.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/login/handler/LoginPasswordHandler.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/data/input/SeekableInputStreamBytestream.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/mina/MapleCodecFactory.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/ByteArrayMaplePacket.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/login/LoginWorker.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/login/LoginServer.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/data/input/SeekableLittleEndianAccessor.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/data/output/MaplePacketLittleEndianWriter.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/MaplePacketCreator.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/mina/MaplePacketDecoder.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/BitTools.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/MapleAESOFB.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/MapleServerHandler.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/net/mina/MaplePacketEncoder.java</file>
+            <file>file:/C:/Users/Danny/Documents/OdinTeh/trunk/src/odinms/tools/data/input/GenericSeekableLittleEndianAccessor.java</file>
+        </group>
+    </open-files>
+</project-private>
